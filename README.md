@@ -53,3 +53,8 @@ server {
 }
 
 ```
+
+##### прописать /etc/hosts
+```
+127.0.0.1   chat-socketio
+```
