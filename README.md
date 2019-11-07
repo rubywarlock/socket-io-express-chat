@@ -55,6 +55,7 @@ server {
 ```
 
 ##### прописать /etc/hosts
+так как в конфиге nginx прописано `chat-socketio`
 ```
 127.0.0.1   chat-socketio
 ```
