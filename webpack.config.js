@@ -13,7 +13,6 @@ fs.readdirSync('node_modules')
 
 module.exports = {
   entry: './index.js',
-  target: 'node',
   output: {
     path: path.join(__dirname, './'),
     filename: 'bundle.js'
